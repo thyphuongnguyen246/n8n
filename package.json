@@ -100,4 +100,8 @@
       "eslint-plugin-n8n-local-rules": "patches/eslint-plugin-n8n-local-rules.patch"
     }
   }
+}{
+  "dependencies": {
+    "sqlite3": "^4.2.0"
+  }
 }
